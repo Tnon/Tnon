@@ -10,6 +10,5 @@
 
 <!-- 最近在写tsx，简单的组件，不再使用模版，转用tsx，优先级 render>tsx>template -->
 
-抽空看看class component
 
-新年快乐
+想写一套vue组件库
